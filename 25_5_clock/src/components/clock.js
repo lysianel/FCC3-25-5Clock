@@ -199,7 +199,7 @@ class Clock extends Component{
 				<div id="reset" onClick={this.reset}>
 					<FontAwesomeIcon className="icon" icon={faSyncAlt} />
 				</div>
-				<audio id="beep" src="https://raw.githubusercontent.com/lysianel/FCC3-25-5Clock/master/public/beep.mp3"></audio>
+				<audio id="beep" src="https://raw.githubusercontent.com/lysianel/FCC3-25-5Clock/master/25_5_clock/public/beep.mp3"></audio>
 			</div>
 		);
 	}
